@@ -4,18 +4,31 @@
   
   <br>
 
-  <p align="center">
-    <Strong>🛠️Main Stack🛠️</Strong><br>
-  </p>
+  
+  <Strong>🛠️ Main Stack 🛠️</Strong><br>
+  
 
   <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   </p>
 
-  <Strong>📧Email📧</Strong><br>seaheehong@gmail.com<br>
+  <br>
+  <Strong>🎓 Study 🎓</Strong>
+  <br>
+  Georgian College Student 🇨🇦
+  <br>
+  I'm currently studying at nbcamp, which is Backend-Bootcamp in Korea 🇰🇷
+  <br>
+
+  <br>
+  <Strong>📧Email📧</Strong>
+  <br>seaheehong@gmail.com<br>
+  <br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsehe2&layout=compact)
 
