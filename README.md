@@ -30,7 +30,7 @@
   <br>seaheehong@gmail.com<br>
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsehe2&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seaheegood&layout=compact)
 
   <br>
 
