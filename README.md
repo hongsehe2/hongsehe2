@@ -21,9 +21,6 @@
   <Strong>🎓 Study 🎓</Strong>
   <br>
   Georgian College Student 🇨🇦
-  <br>
-  I'm currently studying at nbcamp, which is Backend-Bootcamp in Korea 🇰🇷
-  <br>
 
   <br>
   <Strong>📧Email📧</Strong>
