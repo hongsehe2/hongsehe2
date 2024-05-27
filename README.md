@@ -30,10 +30,10 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
 
-  <br>
-  <Strong>🎓 Study</Strong>
-  <br>
-  Georgian College 🇨🇦 ~ing
+  <Strong>🎓 Study</Strong><br>
+  <p align="center" display="inline-block">
+    <a href="https://www.georgiancollege.ca" target="_blank"><img src="https://img.shields.io/badge/georgian college-043874?style=for-the-badge&logo=georgiancollege&logoColor=white"/></a>
+  </p>
 
   <br>
   <br>
