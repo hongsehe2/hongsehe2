@@ -27,24 +27,13 @@
   <p align="center" display="inline-block">
     <a href="https://www.georgiancollege.ca" target="_blank"><img src="https://img.shields.io/badge/georgian college-043874?style=for-the-badge&logo=georgiancollege&logoColor=white"/></a>
   </p>
-
-  <br>
-  <br>
-  <br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seaheegood&layout=compact)
-
-  <br>
-
-
-  
- 
 </div>
 
 <!--
 *깃헙 스텟 보여주는거*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongsehe2&show_icons=true&theme=shadow_green)
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seaheegood&layout=compact)
 **hongsehe2/hongsehe2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
